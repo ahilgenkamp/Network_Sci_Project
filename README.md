@@ -1,2 +1,7 @@
 # Network_Sci_Project
-Repo for Network Science course final project
+
+**Data:**
+
+- User Details (user_details_clean.csv) 
+- Chatter Group Activity (chatter_activity_clean.csv)
+- Chatter Group Membership (chatter_membership_clean.csv)
