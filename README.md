@@ -1,4 +1,5 @@
-# Network_Sci_Project
+# Network Science Final Project
+### I606 Spring 2019
 
 **Data:**
 
