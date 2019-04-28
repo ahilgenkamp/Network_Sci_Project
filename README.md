@@ -4,4 +4,4 @@
 
 - User Details (user_details_clean.csv) 
 - Chatter Group Activity (chatter_activity_clean.csv)
-- Chatter Group Membership (chatter_membership_clean.csv)
+- Chatter Group Membership - 10% Sample (chatter_membership_10_clean.csv)
