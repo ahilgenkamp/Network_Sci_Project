@@ -1,4 +1,4 @@
-# Network Science Final Project
+# Network Science Final Project: Network Analysis of Organizational Communication
 ### I606 Spring 2019
 
 **Data:**
